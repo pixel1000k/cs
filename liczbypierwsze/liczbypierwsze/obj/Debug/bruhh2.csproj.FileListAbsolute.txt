@@ -1,0 +1,8 @@
+C:\Users\pixel\Desktop\C#\bruhh2\bruhh2\bin\Debug\bruhh2.exe.config
+C:\Users\pixel\Desktop\C#\bruhh2\bruhh2\bin\Debug\bruhh2.exe
+C:\Users\pixel\Desktop\C#\bruhh2\bruhh2\bin\Debug\bruhh2.pdb
+C:\Users\pixel\Desktop\C#\bruhh2\bruhh2\obj\Debug\bruhh2.csproj.AssemblyReference.cache
+C:\Users\pixel\Desktop\C#\bruhh2\bruhh2\obj\Debug\bruhh2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pixel\Desktop\C#\bruhh2\bruhh2\obj\Debug\bruhh2.csproj.CoreCompileInputs.cache
+C:\Users\pixel\Desktop\C#\bruhh2\bruhh2\obj\Debug\bruhh2.exe
+C:\Users\pixel\Desktop\C#\bruhh2\bruhh2\obj\Debug\bruhh2.pdb
