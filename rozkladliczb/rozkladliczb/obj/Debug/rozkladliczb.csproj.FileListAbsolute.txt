@@ -1,0 +1,8 @@
+C:\Users\pixel\Desktop\C#\rozkladliczb\rozkladliczb\bin\Debug\rozkladliczb.exe.config
+C:\Users\pixel\Desktop\C#\rozkladliczb\rozkladliczb\bin\Debug\rozkladliczb.exe
+C:\Users\pixel\Desktop\C#\rozkladliczb\rozkladliczb\bin\Debug\rozkladliczb.pdb
+C:\Users\pixel\Desktop\C#\rozkladliczb\rozkladliczb\obj\Debug\rozkladliczb.csproj.AssemblyReference.cache
+C:\Users\pixel\Desktop\C#\rozkladliczb\rozkladliczb\obj\Debug\rozkladliczb.csproj.SuggestedBindingRedirects.cache
+C:\Users\pixel\Desktop\C#\rozkladliczb\rozkladliczb\obj\Debug\rozkladliczb.csproj.CoreCompileInputs.cache
+C:\Users\pixel\Desktop\C#\rozkladliczb\rozkladliczb\obj\Debug\rozkladliczb.exe
+C:\Users\pixel\Desktop\C#\rozkladliczb\rozkladliczb\obj\Debug\rozkladliczb.pdb
