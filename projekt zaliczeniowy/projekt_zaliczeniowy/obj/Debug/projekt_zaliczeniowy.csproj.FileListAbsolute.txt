@@ -1,0 +1,8 @@
+C:\Users\pixel\Desktop\C#\projekt zaliczeniowy\projekt_zaliczeniowy\bin\Debug\KYSKamil.exe.config
+C:\Users\pixel\Desktop\C#\projekt zaliczeniowy\projekt_zaliczeniowy\bin\Debug\KYSKamil.exe
+C:\Users\pixel\Desktop\C#\projekt zaliczeniowy\projekt_zaliczeniowy\bin\Debug\KYSKamil.pdb
+C:\Users\pixel\Desktop\C#\projekt zaliczeniowy\projekt_zaliczeniowy\obj\Debug\projekt_zaliczeniowy.csproj.AssemblyReference.cache
+C:\Users\pixel\Desktop\C#\projekt zaliczeniowy\projekt_zaliczeniowy\obj\Debug\projekt_zaliczeniowy.csproj.SuggestedBindingRedirects.cache
+C:\Users\pixel\Desktop\C#\projekt zaliczeniowy\projekt_zaliczeniowy\obj\Debug\projekt_zaliczeniowy.csproj.CoreCompileInputs.cache
+C:\Users\pixel\Desktop\C#\projekt zaliczeniowy\projekt_zaliczeniowy\obj\Debug\KYSKamil.exe
+C:\Users\pixel\Desktop\C#\projekt zaliczeniowy\projekt_zaliczeniowy\obj\Debug\KYSKamil.pdb

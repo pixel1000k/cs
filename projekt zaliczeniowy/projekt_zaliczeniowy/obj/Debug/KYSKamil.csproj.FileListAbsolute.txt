@@ -1,0 +1,8 @@
+C:\Users\matib\Desktop\code\KYSKamil\KYSKamil\bin\Debug\KYSKamil.exe.config
+C:\Users\matib\Desktop\code\KYSKamil\KYSKamil\bin\Debug\KYSKamil.exe
+C:\Users\matib\Desktop\code\KYSKamil\KYSKamil\bin\Debug\KYSKamil.pdb
+C:\Users\matib\Desktop\code\KYSKamil\KYSKamil\obj\Debug\KYSKamil.csproj.AssemblyReference.cache
+C:\Users\matib\Desktop\code\KYSKamil\KYSKamil\obj\Debug\KYSKamil.csproj.SuggestedBindingRedirects.cache
+C:\Users\matib\Desktop\code\KYSKamil\KYSKamil\obj\Debug\KYSKamil.csproj.CoreCompileInputs.cache
+C:\Users\matib\Desktop\code\KYSKamil\KYSKamil\obj\Debug\KYSKamil.exe
+C:\Users\matib\Desktop\code\KYSKamil\KYSKamil\obj\Debug\KYSKamil.pdb
